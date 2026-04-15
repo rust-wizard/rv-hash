@@ -1,5 +1,5 @@
 [package]
-name = "risc"
+name = "rv-blake2s"
 version = "0.1.0"
 edition = "2021"
 
